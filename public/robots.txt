@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /*?*query=
+
+# Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Favicon
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Host & Sitemap
+Host: https://www.shivdhara.co.in
+Sitemap: https://www.shivdhara.co.in/sitemap.xml
