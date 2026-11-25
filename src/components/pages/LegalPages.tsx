@@ -265,10 +265,13 @@ export const LegalPages: React.FC<LegalPagesProps> = ({ initialTab = 'privacy' }
                 You may reschedule your private appointment with Falgun Thakkr at no extra cost up to 24 hours before the scheduled time. Cancellations made 24+ hours in advance receive a 100% full refund.
               </p>
               <h3 className="text-base font-serif font-bold text-[#101827] pt-2">
-                2. Sacred Boutique Items
+                2. Sacred Boutique Items (Strict No-Return Policy)
               </h3>
               <p>
-                If an energized item arrives damaged in transit, we will replace it immediately or issue a 100% refund upon receiving photographic proof within 7 days of delivery.
+                Every SHIV DHARA crystal bracelet and sacred item is individually energized and consecrated through traditional Vedic rituals prior to dispatch. Because these items are spiritually attuned, <strong>once worn or delivered, they align with the wearer&apos;s personal energy and cannot be reused or re-circulated for anyone else.</strong> Accordingly, we maintain a strict <strong>No Return &amp; No Exchange Policy</strong> on all energized boutique items.
+              </p>
+              <p>
+                <strong>Exception — Transit Damage / Broken on Arrival:</strong> If an energized item arrives physically broken or damaged during transit, we will happily replace it immediately (or issue a 100% refund) upon receiving clear unboxing video or photographic proof within 48 hours of delivery.
               </p>
             </div>
           )}
