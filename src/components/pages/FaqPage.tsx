@@ -47,6 +47,11 @@ const faqs: FaqItem[] = [
     category: 'Products & Orders',
     question: 'What is the standard delivery timeframe for orders?',
     answer: 'Orders are prepared, energized, and dispatched within 2 business days. Express courier delivery takes 3-5 business days across India. International orders typically arrive in 7-10 business days with end-to-end tracking.'
+  },
+  {
+    category: 'Products & Orders',
+    question: 'Do you accept returns or exchanges on energized bracelets?',
+    answer: 'Because each crystal bracelet is personally energized and consecrated before dispatch, once worn or delivered it absorbs and aligns with the wearer’s personal energy and cannot be reused by anyone else. Therefore, we follow a strict No Return Policy. However, if any item arrives broken or physically damaged in transit, we provide an immediate free replacement upon sharing unboxing photo/video proof within 48 hours of delivery.'
   }
 ];
 
